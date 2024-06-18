@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: block8-upload-download-files
+
+upload:
+  directory: "src/main/resources/static/uploads/"
